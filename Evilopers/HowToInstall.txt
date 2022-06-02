@@ -1,0 +1,5 @@
+1. Download "Evilopers"
+
+2. Extract "Data.part1.rar" and "Data.part2.rar" to the same location. There should be a new Data folder after the extraction was successful.
+
+3. Open the new "Data" folder and click "RRIVježba2.exe" to play.
