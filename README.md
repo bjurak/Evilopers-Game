@@ -1,4 +1,12 @@
 # Evilopers-Game
 Evilopers is a single-leveled college project for our 2021 Game Development Study.
+It was made by Team TVZ Warhammer and was one of the most successful Game Development projects that year in Zagreb's University of Applied Sciences. 
+It was also showcased in Techical museum Nikola Tesla in Croatia at Zagreb's University of Applied Sciences IT Design art exhibit.
+
+![Screenshot of the gameplay](https://ibb.co/xXm8987)
+
+## Technologies used for development
 Unity, C#, Blender, Adobe Premiere Pro, Photoshop.
-It was made by Team TVZ Warhammer and was one of the most successful Game Development projects that year in Zagreb's University of Applied Sciences from our perspective. 
+
+##Trailer of the game
+https://www.youtube.com/watch?v=GTjKUBTjoyo
